@@ -15,6 +15,30 @@
 
 🌐 Currently, I'm exploring the intersection of web development and data science, aiming to build user-centric solutions and harness the power of data for impactful applications.
 
+🔗 Let's connect! Check out my projects below 👇. Some repositories are private, so feel free to reach out for more details or discussions. Happy coding!
+
+<hr>
+
+<h2 align="center">💹 Some of my Repos 💹</h2>
+
+🔧[Sponsify](https://github.com/rgraner/sponsify/)
+<br>
+🔧[Metamaxie](https://github.com/rgraner/metamaxie/)
+<br>
+🔧[Restaurant Menu](https://github.com/rgraner/restaurant-menu/)
+
+<!-- <p align="center">
+  <a href="https://github.com/rgraner/sponsify/">
+    <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rgraner&repo=sponsify&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>
+  <a href="https://github.com/rgraner/metamaxie/">
+    <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rgraner&repo=metamaxie&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a> 
+  <a href="https://github.com/rgraner/restaurant-menu/">
+    <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rgraner&repo=restaurant-menu&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  </a>   
+</p> -->
+
 <hr>
 
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
